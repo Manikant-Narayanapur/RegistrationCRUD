@@ -32,6 +32,5 @@ CREATE TABLE registration (ID INT AUTO_INCREMENT PRIMARY KEY, Name VARCHAR(100) 
 DateOfBirth DATE NOT NULL, PhoneNumber VARCHAR(15));
 
 Setting Up Java Project in Eclipse
--Open Eclipse and create a new Java project.
--Add MySQL JDBC Connector:
--Download the MySQL JDBC Connector .jar file from the link provided above.
+-Open Eclipse and create a new Java project and perform the CRUD operations.
+
